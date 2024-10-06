@@ -1,4 +1,3 @@
-import Image from "next/image";
 import WeatherWidget from "@/components/weather";
 
 export default function Home() {
